@@ -1,0 +1,50 @@
+.bgimg {
+	background-color: black;
+	background-size: cover;
+	height: 300vh;
+}
+.head1 {
+	color: white;
+	font-family: 'Roboto Slab',serif;
+	padding: 20px;
+}
+.image1{
+	border-top-left-radius:30px;
+	border-bottom-left-radius: 30px;		
+}
+.head2 {
+	padding: 10px;
+	font-family: 'Roboto Slab' serif;
+}
+.para {
+	font-size: 30px;
+	padding:20px;
+}
+.btn1 {
+	color:white;
+	border:none;
+	background-color: darkblue;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+}
+.image2 {
+	border-radius: 30px;
+	margin: 20px;
+
+}
+.head3 {
+	color: white;
+	font-family: 'Roboto Slab', serif;
+	padding: 25px;
+}
+.btn2 {
+	border:none;
+	color: white;
+	border-radius: 10px;
+	background-color: darkblue;
+	width: 150px;
+	height: 50px;
+		margin: 15px;
+}
+
